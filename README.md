@@ -15,6 +15,7 @@ The goal of this project is to analyze the sentiment expressed in tweets about v
 ## Dataset
 
 The dataset used in this project contains tweets about different airlines along with their corresponding sentiment labels.
+-https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 ## Requirements
 
