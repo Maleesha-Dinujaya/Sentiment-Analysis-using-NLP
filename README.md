@@ -46,7 +46,8 @@ The dataset used in this project contains tweets about different airlines along 
 
 ## Results
 
-The machine learning models achieve an accuracy of X% in predicting the sentiment of tweets.
+Accuracy of Multinomial Naïve Bayes Classifier: 0.7219945355191257
+Accuracy of Random Forest Classifier: 0.7489754098360656
 
 ## Credits
 
